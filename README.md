@@ -1,28 +1,29 @@
-### <center> Universidad Peruana de Ciencias Aplicadas </center>
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-### <center> Ingeniería de Software </center>
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2024 - 1 </h3>
 
-### <center> 2024 - 1 </center>
+<br>
 
-<center>
+<div align="center">
   <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
-</center>
+</div>
 
-<hr>
+<br>
 
-# <center> TB1 Report </center>
+<h1 align="center"> TB1 Report </h1>
 
-### <center> Aplicaciones Web - SW53 </center>
+<h3 align="center"> Aplicaciones Web - SW53 </h3>
 
-### <center> Docente: Naldo Reupo-Musayón Gastulo </center>
+<h3 align="center"> Docente: Naldo Reupo-Musayón Gastulo </h3>
 
-### <center> Startup: Dreamers in a Hurry </center>
+<h3> Startup: Dreamers in a Hurry </h3>
 
-### <center> Product: </center>
+<h3> Product: </h3>
 
-### Team Members:
+<h3> Team Members: </h3>
 
-<center>
+<div align="center">
 
 | Member                           |    Code    |
 | :------------------------------- | :--------: |
@@ -32,20 +33,20 @@
 | Defilippi Santillán, Diego       | U202120448 |
 | Sanchez Maita, Agustin Alejandro | U20181a313 |
 
-</center>
+</div>
 
-### <center>Marzo, 2024</center>
+<h3 align="center">Marzo, 2024</h3>
 
 <br><br>
 
 # Registro de Versiones del Informe
 
-<center>
+<div align="center">
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
 
-</center>
+</div>
 
 <br><br>
 
@@ -162,11 +163,14 @@
 
 # Student Outcome
 
+<div align="center">
+
 | Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software |                     |              |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                            |                     |              |
 
+</div>
 <br><br>
 
 ## Capítulo I: Introducción
