@@ -183,7 +183,7 @@
 
 <table>
   <tr>
-    <td><img src="Screenshoot1.png" alt="Imagen del integrante Daniel" width="900"></td>
+    <td><img src="Images/Screenshoot1.png" alt="Imagen del integrante Daniel" width="900"></td>
     <td> Me llamo Daniel Chirinos Arevalo y soy de la carrera de Ingeniería de Software. Mi experiencia en la universidad es bastante normal y me encuentro cursando el sexto ciclo. A lo largo del tiempo, sí que tuve algunas dificultades con algunos cursos, pero logré enfrentarlos. Mi habilidad es ser líder en algunas ocasiones, trabajar con tiempo y lo más importante, ser siempre amistoso con el equipo.
 
 </td>
