@@ -190,6 +190,18 @@
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td><img src="Images/FotoGeor.png" alt="Imagen del integrante George" width="900"></td>
+    <td> Me llamo George Arturo Aliaga Pimentel y soy de la carrera de Ingeniería de Software. Estoy cursando el sexto ciclo. Me considero una persona cooperativa y responsable, lo cual es lo requerido para un proyecto grupal. Tengo la meta de ser un gran ingeniero y espero mejorar todo lo aprendido en la carrera.
+
+</td>
+  </tr>
+</table>
+
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
